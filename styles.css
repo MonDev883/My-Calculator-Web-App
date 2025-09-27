@@ -2,5 +2,16 @@
 	background-color: #1447E6;
 	width: 20%;
 	padding: 10px;
-	box-shadow: 0px 0px orange;
+	box-shadow: 0px 0px 5px orange;
+	border-radius: 4px;
+
+}
+#txtExpression{
+	background-color: white;
+	color: black;
+}	
+input[type="button"]
+{
+	width: 25px;
+	height: 25px;
 }
